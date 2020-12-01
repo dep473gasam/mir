@@ -1,0 +1,2 @@
+[1201/142738.435:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1201/143240.925:ERROR:file_io.cc(135)] WriteFile: Идет закрытие канала. (0xE8)
